@@ -27,7 +27,7 @@ Hosted on YouTube: https://youtu.be/c8tAJmW7pgA
 2. Install MetaMask Web extension on preferred Browser
 3. Clone the CertManager Dapp code form
 
-#### `https://github.com/venkateswarapola/CertManager.git`
+#### `https://github.com/manisreekar/CertManager.git`
 
 ## Steps to run the Application
 
